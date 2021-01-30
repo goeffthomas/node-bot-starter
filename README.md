@@ -1,3 +1,6 @@
+## node-bot-starter
+A jump starter repo for building a Selenium-based web bot using NodeJS/TypeScript
+
 ## How to use this thing
 
 1. Download and install NodeJS >=14.15.0
