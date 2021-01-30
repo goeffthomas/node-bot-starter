@@ -16,5 +16,5 @@
     "typescript": "^4.1.3"
   },
   "author": "Goeff Thomas <goeffthomas@gmail.com>",
-  "license": "ISC"
+  "license": "MIT"
 }
