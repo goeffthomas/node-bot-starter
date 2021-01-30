@@ -1,0 +1,20 @@
+{
+  "name": "node-bot-starter",
+  "version": "1.0.0",
+  "description": "A jump starter repo for building a Selenium-based web bot using NodeJS/TypeScript",
+  "main": "dist/index.js",
+  "scripts": {
+    "bot": "tsc -P \".\" && node dist/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@types/axios": "^0.14.0",
+    "@types/node": "12.12.2",
+    "@types/selenium-webdriver": "^3.0.8",
+    "axios": "^0.21.0",
+    "selenium-webdriver": "^3.6.0",
+    "typescript": "^4.1.3"
+  },
+  "author": "Goeff Thomas <goeffthomas@gmail.com>",
+  "license": "ISC"
+}
