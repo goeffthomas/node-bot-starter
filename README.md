@@ -3,7 +3,7 @@ A jump starter repo for building a Selenium-based web bot using NodeJS/TypeScrip
 
 ## How to use this thing
 
-1. Download and install NodeJS >=14.15.0
+1. Download and install NodeJS >=20.10.0
     - Either get [NodeJS directly](https://nodejs.org/en/) or via NVM on [Windows](https://github.com/coreybutler/nvm-windows) or [Mac](https://github.com/nvm-sh/nvm)
 2. Install dependencies by running `npm i`
 3. Write the bot code in `src/index.ts` (a basic one has been provided as a sample)
